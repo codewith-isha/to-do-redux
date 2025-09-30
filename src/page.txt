@@ -1,0 +1,5 @@
+we'll cover 
+ 1.Create state for tasks
+ 2.Adding tasks.
+ 3.Displaying tasks.
+ 4.Deleting tasks.
